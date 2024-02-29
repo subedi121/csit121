@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    color: blue;  
+
+}
+p{
+    color: black;
+    font-style: italic;
+}
+h1{
+    color: red;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: larger;
+}
+li{
+    color: black;
+    margin: auto;
+}
+img{
+    height: 1000px;
+    width: 1000px;
+}
+.image-container {
+    width: 1000px; 
+    height: 1000px; 
+    background-image: url('https://live.staticflickr.com/2590/3999670069_9e13c07004_b.jpg');
+    border-radius: 5px;
+    background-position:center;
+    box-shadow: 5px 5px 5px blue;
+    background-repeat: no-repeat;   
+}
